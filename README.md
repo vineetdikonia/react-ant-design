@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react demo application with 2 pages one is dashboard and other is a listing. I have used [Ant Design](https://ant.design/docs/react/use-with-create-react-app) for the UI.
+
+## Dashboard
+![Dashboard](https://res.cloudinary.com/di0tr0enu/image/upload/v1577188287/Dashboard.png)
+
+## Schedule Call
+![Schedule Call List](https://res.cloudinary.com/di0tr0enu/image/upload/v1577188308/ScheduleCallList.png)
 
 ## Available Scripts
 
